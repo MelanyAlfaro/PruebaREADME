@@ -25,9 +25,13 @@
 
 ## 1. Business strategy and system objectives
 
+_To be defined_
+
 <!-- TODO: Complete  -->
 
 ## 2. Clients
+
+_To be defined_
 
 <!-- TODO: Complete  -->
 
@@ -40,21 +44,19 @@
 
 <!-- TODO: Complete  -->
 
+_To be defined_
+
 ## 4. Legacy systems
 
 <!-- TODO: Complete  -->
 
-| System | Description | Relationship |
-| ------ | ----------- | ------------ |
-
----
+_To be defined_
 
 ## 5. Regulatory aspects
 
 <!-- TODO: Complete  -->
 
-| Aspect | Description |
-| ------ | ----------- |
+_To be defined_
 
 ---
 
@@ -62,17 +64,23 @@
 
 <!-- TODO: Complete  -->
 
+_To be defined_
+
 **Assumptions:**
 
 - <!-- TODO: Complete  -->
+- _To be defined_
 
 **Constraints:**
 
-| Constraint | Description |
-| ---------- | ----------- |
+<!-- TODO: Complete  -->
+
+_To be defined_
 
 ---
 
 ## 7. Existing solutions
 
 <!-- TODO: Complete  -->
+
+_To be defined_

@@ -41,6 +41,7 @@
     - [5.6 Data requirements](#56-data-requirements)
     - [5.7 Conceptual database design](#57-conceptual-database-design)
     - [5.8 Logical database design](#58-logical-database-design)
+  - [6. References](#6-references)
 
 ---
 
@@ -72,20 +73,19 @@ corresponding section below.
 | ECCI       | Escuela de Ciencias de la Computación e Informática                 |
 | VR         | Virtual Reality                                                     |
 | Web/VR     | Application accessible via web browser and VR headset               |
-| Meta Quest | VR headset platform by Meta, one of the deployment targets          |
-| Metaverse  | Persistent shared virtual environment accessible via internet       |
-| PO         | Product Owner — person responsible for prioritizing the backlog     |
-| Scrum      | Agile development framework used in this project                    |
+| Meta Quest |                                                                     |
+| Metaverse  |                                                                     |
+| PO         | Product Owner                                                       |
+| Scrum      |                                                                     |
 | Sprint     | Fixed-length iteration in Scrum                                     |
 | MVP        | Minimum Viable Product — smallest functional version of the product |
 | DoD        | Definition of Done — checklist a story must pass to be accepted     |
 | EER        | Extended Entity-Relationship model, used for conceptual DB design   |
 | NFR        | Non-Functional Requirement                                          |
-| Jira       | Project management tool used to track the backlog and sprints       |
-| Epic       | Large body of work that groups related user stories                 |
+| Epic       |                                                                     |
 | US         | User Story                                                          |
-| 2D         | Two-dimensional experience, accessible via web browser              |
-| 3D         | Three-dimensional immersive experience, accessible via VR headset   |
+| 2D         |                                                                     |
+| 3D         |                                                                     |
 
 ---
 
@@ -128,6 +128,10 @@ the context of European Union innovation programs.
 
 ### 4.2 Problem it solves
 
+<!-- TODO: Complete  -->
+
+_To be defined _
+
 ### 4.3 Stakeholders and user types
 
 | Stakeholder     | Type     | Description                                           |
@@ -141,6 +145,8 @@ the context of European Union innovation programs.
 ### 4.4 Proposed solution
 
 <!-- TODO: Complete  -->
+
+_To be defined _
 
 ### 4.5 Environment analysis
 
@@ -157,6 +163,8 @@ _To be defined with the Product Owner during Sprint 0._
 
 ### 4.7 External systems
 
+_To be defined _
+
 <!-- TODO: Complete  -->
 
 ### 4.8 Modules per team and epics
@@ -165,6 +173,10 @@ _To be defined with the Product Owner during Sprint 0._
 module, their main epics, inter-module relationships.
 
 ### 4.9 Functional requirements
+
+Functional requirements are managed as user stories in Github Projects.
+
+_Add link_
 
 <!-- TODO: Complete  -->
 
@@ -185,13 +197,13 @@ architecture constraints.
 
 ### 5.1 Methodology and processes
 
-→ See [`../architecture/methodology.md`](../architecture/methodology.md) for
+→ See [`methodology.md`](../architecture/methodology.md) for
 the full description of the Scrum processes, ceremonies, and roles adopted by
 the teams.
 
 ### 5.2 Artefacts
 
-→ See [`../architecture/methodology.md`](../architecture/methodology.md) for
+→ See [`methodology.md`](../architecture/methodology.md) for
 the list of artefacts used throughout the project.
 
 ### 5.3 Tech stack
@@ -202,8 +214,7 @@ technologies, frameworks, and exact versions used, with justifications.
 ### 5.4 Repository and git strategy
 
 → See [`../architecture/git-strategy.md`](../architecture/git-strategy.md)
-for the branching model, PR rules, and commit conventions. Commit message
-format is defined in [`../../COMMIT_GUIDELINES.md`](../../COMMIT_GUIDELINES.md).
+for the branching model, PR rules, and commit conventions.
 
 ### 5.5 Definition of Done
 
@@ -226,3 +237,11 @@ Extended Entity-Relationship diagram and its design decisions.
 
 → See [`../database/logical-model.md`](../database/logical-model.md) for the
 relational model and the mapping decisions derived from the EER diagram.
+
+---
+
+## 6. References
+
+_This section collects all sources, documents, and resources consulted for the development and justification of the ThemePark@UCR system. Please add books, articles, websites, standards, and any other relevant material used as a reference._
+
+<!-- TODO : Defined format with professor or group -->
