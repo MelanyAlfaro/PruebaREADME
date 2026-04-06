@@ -4,7 +4,10 @@
 
 ![Sprint](https://img.shields.io/badge/sprint-0-blue)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![License](https://img.shields.io/badge/license-CC--BY--NC--SA-lightgrey)
+
+<!-- TODO: define correct licensed -->
+<!-- ![License](https://img.shields.io/badge/license-CC--BY--NC--SA-lightgrey) -->
+
 ![Course](https://img.shields.io/badge/course-CI--0128-orange)
 
 ---
