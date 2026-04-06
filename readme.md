@@ -38,7 +38,25 @@ cd themepark-ucr
 
 # run the application
 # TODO: add run command
+
 ```
+
+---
+
+## Project Structure
+
+The documentation is structured into the following primary directories and files:
+
+```bash
+├── docs/
+│   ├── architecture/
+│   ├── assets/
+│   ├── conceptualization/
+│   └── database/
+├── README.md
+```
+
+ <!-- TODO: update -->
 
 ---
 
