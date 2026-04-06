@@ -29,19 +29,11 @@
 
 <!-- TODO: Define frontend technologies with the team during Sprint 0 -->
 
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |
-
 ---
 
 ## 2. Backend
 
 <!-- TODO: Define backend technologies with the team during Sprint 0 -->
-
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |
 
 ---
 
@@ -49,19 +41,11 @@
 
 <!-- TODO: Define database engine and ORM/query tools during Sprint 0 -->
 
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |
-
 ---
 
 ## 4. VR
 
 <!-- TODO: Define VR platform and engine during Sprint 0 -->
-
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |
 
 ---
 
@@ -69,25 +53,14 @@
 
 <!-- TODO: Define hosting, CI/CD and deployment strategy during Sprint 0 -->
 
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |
-
 ---
 
 ## 6. Development tools
 
 <!-- TODO: Define IDEs, project management tools and collaboration tools -->
 
-| Tool | Version | Purpose |
-| ---- | ------- | ------- |
-
 ---
 
 ## 7. Testing
 
 <!-- TODO: Define testing frameworks and tools during Sprint 0 -->
-
-| Technology      | Version         | Justification   |
-| --------------- | --------------- | --------------- |
-| _To be defined_ | _To be defined_ | _To be defined_ |

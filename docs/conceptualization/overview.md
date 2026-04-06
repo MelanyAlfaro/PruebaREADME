@@ -9,7 +9,7 @@
 | **System version**   | 0.1.0                                                    |
 | **Last updated**     | 2026-04-03                                               |
 
----
+<!-- TODO: ask professor when versions on the different documents need to change -->
 
 ## Table of contents
 
@@ -130,15 +130,13 @@ the context of European Union innovation programs.
 
 <!-- TODO: Complete  -->
 
-_To be defined _
+_To be defined_
 
 ### 4.3 Stakeholders and user types
 
-| Stakeholder     | Type     | Description                                           |
-| --------------- | -------- | ----------------------------------------------------- |
-| Future students | End user | Explore campus and academic programs before enrolling |
-| General public  | End user | Access immersive educational experiences              |
-| Professors      | End user | Participate and contribute to the virtual space       |
+| Stakeholder     | Type            | Description     |
+| --------------- | --------------- | --------------- |
+| _To be defined_ | _To be defined_ | _To be defined_ |
 
 <!-- TODO: Complete  -->
 
@@ -146,7 +144,7 @@ _To be defined _
 
 <!-- TODO: Complete  -->
 
-_To be defined _
+_To be defined_
 
 ### 4.5 Environment analysis
 
@@ -241,7 +239,5 @@ relational model and the mapping decisions derived from the EER diagram.
 ---
 
 ## 6. References
-
-_This section collects all sources, documents, and resources consulted for the development and justification of the ThemePark@UCR system. Please add books, articles, websites, standards, and any other relevant material used as a reference._
 
 <!-- TODO : Defined format with professor or group -->
