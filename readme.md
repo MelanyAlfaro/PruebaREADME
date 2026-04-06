@@ -43,6 +43,10 @@ cd themepark-ucr
 
 ---
 
+## Usage
+
+_To be defined_
+
 ## Project Structure
 
 The documentation is structured into the following primary directories and files:
