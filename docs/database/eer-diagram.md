@@ -10,7 +10,7 @@
 ---
 
 > **Note:** This diagram must cover the database requirements for sprints 0
-> through 2. It should be kept updated as the project evolves and must remain
+> through final. It should be kept updated as the project evolves and must remain
 > consistent with the data requirements and logical model at all times.
 
 ---

@@ -7,7 +7,7 @@
 | **System**           | ThemePark@UCR                                            |
 | **Document version** | 1.0                                                      |
 | **System version**   | 0.1.0                                                    |
-| **Last updated**     | 2026-04-03                                               |
+| **Last updated**     | 2026-07-03                                               |
 
 <!-- TODO: ask professor when versions on the different documents need to change -->
 
@@ -57,35 +57,31 @@ it exists, who it serves, and how the development teams are organized to build
 it. It serves as the foundational reference for all teams throughout the
 project and should be kept updated as the project evolves.
 
-The document is structured as follows: it opens with team organization and
-role assignments, then describes the system context, problem, stakeholders,
-and proposed solution. Larger sections that require detailed treatment are
-maintained in dedicated files within this repository and linked from the
-corresponding section below.
-
 ---
 
 ## 2. Definitions, acronyms and abbreviations
 
-| Term       | Definition                                                          |
-| ---------- | ------------------------------------------------------------------- |
-| UCR        | Universidad de Costa Rica                                           |
-| ECCI       | Escuela de Ciencias de la Computación e Informática                 |
-| VR         | Virtual Reality                                                     |
-| Web/VR     | Application accessible via web browser and VR headset               |
-| Meta Quest |                                                                     |
-| Metaverse  |                                                                     |
-| PO         | Product Owner                                                       |
-| Scrum      |                                                                     |
-| Sprint     | Fixed-length iteration in Scrum                                     |
-| MVP        | Minimum Viable Product — smallest functional version of the product |
-| DoD        | Definition of Done — checklist a story must pass to be accepted     |
-| EER        | Extended Entity-Relationship model, used for conceptual DB design   |
-| NFR        | Non-Functional Requirement                                          |
-| Epic       |                                                                     |
-| US         | User Story                                                          |
-| 2D         |                                                                     |
-| 3D         |                                                                     |
+| Term       | Definition                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| UCR        | Universidad de Costa Rica                                                 |
+| ECCI       | Escuela de Ciencias de la Computación e Informática                       |
+| VR         | Virtual Reality                                                           |
+| Web/VR     | Application accessible via web browser and VR headset                     |
+| Meta Quest | A virtual reality headset developed by Meta for immersive applications    |
+| Metaverse  | A persistent virtual environment where users interact via digital avatars |
+| PO         | Product Owner                                                             |
+| Scrum      | An agile framework for developing, delivering, and sustaining products    |
+| Sprint     | Fixed-length iteration in Scrum                                           |
+| MVP        | Minimum Viable Product — smallest functional version of the product       |
+| DoD        | Definition of Done — checklist a story must pass to be accepted           |
+| EER        | Extended Entity-Relationship model, used for conceptual DB design         |
+| NFR        | Non-Functional Requirement                                                |
+| Epic       | A large body of work that can be broken down into smaller user stories    |
+| US         | User Story                                                                |
+| 2D         | Two-dimensional space defined by height and width                         |
+| 3D         | Three-dimensional space defined by height, width, and depth               |
+
+<!-- TODO : check for more possible terms, if it gets too large we may have to consider adding it to a new .md, and just link here -->
 
 ---
 
@@ -240,4 +236,13 @@ relational model and the mapping decisions derived from the EER diagram.
 
 ## 6. References
 
-<!-- TODO : Defined format with professor or group -->
+> **Note:** This is a temporal/possible format, it has to be defined yet.
+
+- Scrum Guide (2020)
+  https://scrumguides.org/scrum-guide.html
+- Bryson, S. (2013). Virtual Reality: A Definition History
+  https://arxiv.org/abs/1312.4322
+- Mystakidis, S. (2022). Metaverse (ScienceDirect)
+  https://www.sciencedirect.com/science/article/pii/S106273752300077X
+- TechTarget — What is Scrum?
+  https://www.techtarget.com/searchsoftwarequality/definition/Scrum

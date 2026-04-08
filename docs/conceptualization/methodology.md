@@ -30,12 +30,9 @@ _To be defined_
 
 ## 2. Scrum roles
 
-| Role | Description | Assigned to |
-| ---- | ----------- | ----------- |
-
 _To be defined_
 
-<!-- TODO: List all Scrum roles (Product Owner, Scrum Master, Developers), describe their responsibilities, and assign team members to each role. -->
+<!-- TODO: List all Scrum roles (Product Owner, Scrum Master, Developers), describe their responsibilities (check if roles have to be assigned here too - groups already have rols on overview.md, but maybe we have to add the teachers' roles). -->
 
 ---
 
